@@ -202,8 +202,26 @@ label {
   display: block;
 }
 
-/* ===== LAYOUT STYLES ====== */
 
-/* ===== MODULAR STYLES ===== */
+body {
+  background: #CF6679;
+  text-align: center;
+}
 
-/* ===== STATE STYLES ======= */
+h1, p {
+  color: white;
+  h1, p {
+  color: white;
+  margin-top: 10px;
+}
+}
+
+input {
+  width: 90%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: #d7d7d9;
+  color: white;
+}
