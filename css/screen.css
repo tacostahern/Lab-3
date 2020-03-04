@@ -200,12 +200,14 @@ html {
 
 label {
   display: block;
+  color: white;
 }
 
 
 body {
   background: #CF6679;
   text-align: center;
+  font-family: "Times New Roman", Georgia, serif;
 }
 
 h1{
@@ -215,16 +217,16 @@ h1{
 
  p {
   color: white;
-  margin-top: 1em;
+  margin: 2em;
 }
 
 input {
   width: 50%;
   padding: 12px 20px;
-  margin: 8px 0;
+  margin: 8px;
   box-sizing: border-box;
   border: none;
-  background-color: #d7d7d9;
+  background: #d7d7d9;
   color: white;
 }
 
